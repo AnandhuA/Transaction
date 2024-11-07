@@ -1,16 +1,17 @@
-# transaction
+# Transaction Manager
 
-A new Flutter project.
+A Flutter app for managing and tracking your transactions efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add, edit, and delete transactions
+- Categorize expenses and income
+- View monthly summaries
+- Secure data storage
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/transaction-manager.git
+   cd transaction-manager
